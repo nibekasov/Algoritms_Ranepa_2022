@@ -23,8 +23,9 @@
 0. [Сode Style](https://peps.python.org/pep-0008/)
 1. [Базовые операции](https://informatics.msk.ru/mod/book/view.php?id=2301)
 2. [Условные конструкции](https://informatics.msk.ru/mod/book/view.php?id=2533)
-3. Циклы: * [Цикл For](https://informatics.msk.ru/mod/book/view.php?id=2534)
-          * [Цикл While](https://informatics.msk.ru/mod/book/view.php?id=2583)
+3. Циклы: 
+   * [Цикл For](https://informatics.msk.ru/mod/book/view.php?id=2534)
+   * [Цикл While](https://informatics.msk.ru/mod/book/view.php?id=2583)
 
 ## Глобально:
 0. [Сode Style](https://peps.python.org/pep-0008/)
