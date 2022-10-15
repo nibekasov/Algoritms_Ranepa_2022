@@ -20,13 +20,13 @@
 
 # Что можно почитать:
 
-## К этому занятию
+## К этому занятию:
 1. [Базовые операции](https://informatics.msk.ru/mod/book/view.php?id=2301)
 2. [Условные конструкции](https://informatics.msk.ru/mod/book/view.php?id=2533)
 3. [Цикл For](https://informatics.msk.ru/mod/book/view.php?id=2534)
 4. [Цикл While](https://informatics.msk.ru/mod/book/view.php?id=2583)
 
-## Глобально
+## Глобально:
 1. Python. Карманный справочник. Марк Лутц 5-ое издание
 2. Грокаем Алгоритмы 
 3. Алгоритмы: построение и анализ. Томас Кормен 
