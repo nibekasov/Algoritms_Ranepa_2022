@@ -1,1 +1,16 @@
-https://wiki.algocode.ru/index.php?title=O-%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F_light_version
+
+
+# Что можно почитать:
+
+## К этому занятию:
+1.[Асимптотика](https://wiki.algocode.ru/index.php?title=O-%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F_light_version) 
+2. 
+3. 
+
+## Глобально:
+0. [Сode Style](https://peps.python.org/pep-0008/)
+1. Python. Карманный справочник. Марк Лутц 5-ое издание
+2. Грокаем Алгоритмы 
+3. Алгоритмы: построение и анализ. Томас Кормен 
+
+
