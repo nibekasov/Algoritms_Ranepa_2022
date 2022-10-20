@@ -40,6 +40,7 @@
 3. Циклы: 
    * [Цикл For](https://informatics.msk.ru/mod/book/view.php?id=2534)
    * [Цикл While](https://informatics.msk.ru/mod/book/view.php?id=2583)
+4. Почиташки про биноминальный коэффицент и треугольник паскаля
 
 ## Глобально:
 0. [Сode Style](https://peps.python.org/pep-0008/)
