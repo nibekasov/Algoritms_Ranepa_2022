@@ -12,7 +12,7 @@ for i in range(1, n+1):
     for j in range(1, i+1):
         
         print(' ', C, sep='', end='')
-        
+        # Почему эта формула работает так и не разобрались
         C = C * (i-j) // j
         
     print()
