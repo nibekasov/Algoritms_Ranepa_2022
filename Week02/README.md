@@ -7,8 +7,9 @@
 ## К этому занятию:
 1. [Асимптотика](https://wiki.algocode.ru/index.php?title=O-%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F_light_version) 
 2. [Алгоритм Кадана и другие крутые алгоритмы](https://habr.com/ru/post/539166/) - про крутость динамического программирования
-3. 
-
+3. [Сравнение отсортированных и не отсортированных словарей в C++](https://www.geeksforgeeks.org/map-vs-unordered_map-c/)
+4. [Список методов для списков](https://www.w3schools.com/python/python_lists_methods.asp)
+5. [Хорошая Вики по синтаксису, здесь Python](https://www.w3schools.com/python)
 ## Глобально:
 0. [Сode Style](https://peps.python.org/pep-0008/)
 1. Python. Карманный справочник. Марк Лутц 5-ое издание
